@@ -1,0 +1,5 @@
+.env
+*.avn
+*.prover
+*.verifier
+outputs/
